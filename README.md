@@ -72,5 +72,3 @@ Thank you for checking out my profile! Feel free to explore my projects and cont
 
 
 <br clear="both">
-
-# 🐍 GitHub Contribution Snake:
