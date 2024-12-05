@@ -54,14 +54,12 @@ When I'm not coding, I enjoy researching cutting-edge technologies and creating 
 
 
 # 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasir723&theme=dark&hide_border=false&include_all_commits=false&count_private=true" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasir723&theme=dark&hide_border=false" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasir723&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=yasir723&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=yasir723&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yasir723&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=yasir723&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 # 🚀 Visitor Count:
@@ -72,12 +70,12 @@ When I'm not coding, I enjoy researching cutting-edge technologies and creating 
 
 <div style="max-width: 400px; margin: 20px auto; border: 1px solid #ccc; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); overflow: hidden; text-align: center; background-color: #f9f9f9;" width=50%>
    <a href='https://github.com/yasir723/java-programlama' >
-     <img src="https://github.com/user-attachments/assets/dca10ea5-31b1-4a0a-949f-edc9d1a602e0" alt="Image Card" style="width: 50%; display: block;" /> 
-     <span>Java Programlama</span>
+     <img src="https://github.com/user-attachments/assets/dca10ea5-31b1-4a0a-949f-edc9d1a602e0" alt="Image Card" style="width: 50%; display: block; align=center" /> 
+     Web Güvenliği Makalesi: XSS, SQL Injection gibi saldırılara karşı web uygulamalarını koruma yöntemlerini öğretir. Geliştiriciler, testerlar ve hackerlar için hazırlanmış kapsamlı bir rehberdir. İstemci-sunucu iletişimi, çerezler, oturumlar ve temel güvenlik önlemleri içerir.
    </a>
-   <a href='https://github.com/yasir723/java-programlama' >
-     <img src="https://github.com/user-attachments/assets/559feee7-f96d-42a2-adf0-b795167b7fa5" alt="Image Card" style="width: 50%; display: block;" /> 
-     <span>Web Güvenliği</span>
+   <a href='https://github.com/yasir723/web-guvenligi' >
+     <img src="https://github.com/user-attachments/assets/83d0256f-a8b5-47bb-958d-a52a1e5f8bce" alt="Image Card" style="width: 50%; display: block;" /> 
+     Web Güvenliği
    </a>
 </div>
 
