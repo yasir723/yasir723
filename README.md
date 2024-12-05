@@ -73,4 +73,4 @@ Thank you for checking out my profile! Feel free to explore my projects and cont
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+# 🐍 GitHub Contribution Snake:
