@@ -55,7 +55,9 @@ When I'm not coding, I enjoy researching cutting-edge technologies and creating 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yasir723&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yasir723&theme=dark&hide_border=false)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yasir723&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
@@ -68,16 +70,20 @@ When I'm not coding, I enjoy researching cutting-edge technologies and creating 
 ---
 # My Projcets
 
-<div style="max-width: 400px; margin: 20px auto; border: 1px solid #ccc; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); overflow: hidden; text-align: center; background-color: #f9f9f9;" width=50%>
-   <a href='https://github.com/yasir723/java-programlama' >
-     <img src="https://github.com/user-attachments/assets/dca10ea5-31b1-4a0a-949f-edc9d1a602e0" alt="Image Card" style="width: 50%; display: block; align=center" /> 
-     Web Güvenliği Makalesi: XSS, SQL Injection gibi saldırılara karşı web uygulamalarını koruma yöntemlerini öğretir. Geliştiriciler, testerlar ve hackerlar için hazırlanmış kapsamlı bir rehberdir. İstemci-sunucu iletişimi, çerezler, oturumlar ve temel güvenlik önlemleri içerir.
-   </a>
-   <a href='https://github.com/yasir723/web-guvenligi' >
-     <img src="https://github.com/user-attachments/assets/83d0256f-a8b5-47bb-958d-a52a1e5f8bce" alt="Image Card" style="width: 50%; display: block;" /> 
-     Web Güvenliği
-   </a>
+<div align='center'>
+  <a href="https://github.com/yasir723/java-programlama" style="text-decoration: none; color: black;">
+    <img src="https://github.com/user-attachments/assets/dca10ea5-31b1-4a0a-949f-edc9d1a602e0" alt="Java Programlama" style="width: 50%; margin-bottom: 10px;" />
+    <p>Java Programlama</p>
+  </a>
+
+  <a href="https://github.com/yasir723/web-guvenligi" style="text-decoration: none; color: black;">
+    <img src="https://github.com/user-attachments/assets/83d0256f-a8b5-47bb-958d-a52a1e5f8bce" alt="Web Güvenliği" style="width: 50%; margin-bottom: 10px;" />
+    <p>Web Güvenliği</p>
+  </a>
+
 </div>
+
+  
 
 
 
