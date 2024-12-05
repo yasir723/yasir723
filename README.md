@@ -70,8 +70,15 @@ When I'm not coding, I enjoy researching cutting-edge technologies and creating 
 ---
 # My Projcets
 
-<div style="max-width: 400px; margin: 20px auto; border: 1px solid #ccc; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); overflow: hidden; text-align: center; background-color: #f9f9f9;">
-   <a href='https://github.com/yasir723/web-guvenligi' > <img src="https://github.com/user-attachments/assets/dca10ea5-31b1-4a0a-949f-edc9d1a602e0" alt="Image Card" style="width: 50%; display: block;" /></a>
+<div style="max-width: 400px; margin: 20px auto; border: 1px solid #ccc; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); overflow: hidden; text-align: center; background-color: #f9f9f9;" width=50%>
+   <a href='https://github.com/yasir723/java-programlama' >
+     <img src="https://github.com/user-attachments/assets/dca10ea5-31b1-4a0a-949f-edc9d1a602e0" alt="Image Card" style="width: 50%; display: block;" /> 
+     <span>Java Programlama</span>
+   </a>
+   <a href='https://github.com/yasir723/java-programlama' >
+     <img src="https://github.com/user-attachments/assets/559feee7-f96d-42a2-adf0-b795167b7fa5" alt="Image Card" style="width: 50%; display: block;" /> 
+     <span>Web Güvenliği</span>
+   </a>
 </div>
 
 
