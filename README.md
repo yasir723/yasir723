@@ -80,6 +80,10 @@ When I'm not coding, I enjoy researching cutting-edge technologies and creating 
     <img src="https://github.com/user-attachments/assets/83d0256f-a8b5-47bb-958d-a52a1e5f8bce" alt="Web Güvenliği" style="width: 50%; margin-bottom: 10px;" />
     <p>Web Güvenliği</p>
   </a>
+ <a href="https://github.com/yasir723/veri-yapilari" style="text-decoration: none; color: black;">
+    <img src="https://github.com/user-attachments/assets/6eba42a0-dbc4-456b-bdd7-be99666b905a" alt="Web Güvenliği" style="width: 50%; margin-bottom: 10px;" />
+    <p>Veri Yapıları</p>
+  </a>
 
 </div>
 
