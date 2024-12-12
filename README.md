@@ -88,6 +88,12 @@ When I'm not coding, I enjoy researching cutting-edge technologies and creating 
     <img src="https://github.com/user-attachments/assets/2ca72a6a-61e1-4992-ae85-fa2f6fd7ff47" alt="Karga Notify" style="width: 50%; margin-bottom: 10px;" />
     <p>Karga Notify</p>
   </a>
+
+ <a href="https://github.com/yasir723/hesap-makinesi" style="text-decoration: none; color: black;">
+    <img src="https://github.com/user-attachments/assets/991021b5-8234-4028-bbd7-4192df707f15" alt="Hesap Makinesi" style="width: 50%; margin-bottom: 10px;" />
+    <p>Hesap Makinesi</p>
+  </a>
+  
 </div>
 
   
