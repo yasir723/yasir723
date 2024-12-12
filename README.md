@@ -68,7 +68,7 @@ When I'm not coding, I enjoy researching cutting-edge technologies and creating 
 [![Profile Views](https://visitcount.itsvg.in/api?id=yasir723&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ---
-# My Projcets
+# 💻 My Projects
 
 <div align='center'>
   <a href="https://github.com/yasir723/java-programlama" style="text-decoration: none; color: black;">
