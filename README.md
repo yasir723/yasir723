@@ -81,10 +81,13 @@ When I'm not coding, I enjoy researching cutting-edge technologies and creating 
     <p>Web Güvenliği</p>
   </a>
  <a href="https://github.com/yasir723/veri-yapilari" style="text-decoration: none; color: black;">
-    <img src="https://github.com/user-attachments/assets/6eba42a0-dbc4-456b-bdd7-be99666b905a" alt="Web Güvenliği" style="width: 50%; margin-bottom: 10px;" />
+    <img src="https://github.com/user-attachments/assets/6eba42a0-dbc4-456b-bdd7-be99666b905a" alt="Veri Yapıları" style="width: 50%; margin-bottom: 10px;" />
     <p>Veri Yapıları</p>
   </a>
-
+ <a href="https://github.com/yasir723/Karga-Notify" style="text-decoration: none; color: black;">
+    <img src="https://github.com/user-attachments/assets/2ca72a6a-61e1-4992-ae85-fa2f6fd7ff47" alt="Karga Notify" style="width: 50%; margin-bottom: 10px;" />
+    <p>Karga Notify</p>
+  </a>
 </div>
 
   
