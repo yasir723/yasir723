@@ -69,13 +69,20 @@ When I'm not coding, I enjoy researching cutting-edge technologies and creating 
 
 ---
 # 💻 My Projects
-
+## 3. Sınıf
 |                    |                    |
 |:-------------------------:|:-------------------------:|
 | [![](https://github.com/user-attachments/assets/dca10ea5-31b1-4a0a-949f-edc9d1a602e0)](https://github.com/yasir723/java-programlama) **Java Programlama** | [![](https://github.com/user-attachments/assets/83d0256f-a8b5-47bb-958d-a52a1e5f8bce)](https://github.com/yasir723/web-guvenligi) **Web Güvenliği** |
-| [![](https://github.com/user-attachments/assets/991021b5-8234-4028-bbd7-4192df707f15)](https://github.com/yasir723/hesap-makinesi) **Hesap Makinesi** | [![](https://github.com/user-attachments/assets/2ca72a6a-61e1-4992-ae85-fa2f6fd7ff47)](https://github.com/yasir723/Karga-Notify) **Karga Notify** |
-| [![](https://github.com/user-attachments/assets/6eba42a0-dbc4-456b-bdd7-be99666b905a)](https://github.com/yasir723/veri-yapilari) **Veri Yapıları** | [![](https://github.com/user-attachments/assets/ce997e91-befd-4564-b2b6-e53c360f4fd5)](https://github.com/yasir723/3x3-matrisler) **3x3 Matrisler** |
+| [![](https://github.com/user-attachments/assets/2ca72a6a-61e1-4992-ae85-fa2f6fd7ff47)](https://github.com/yasir723/Karga-Notify) **Karga Notify** | [![](https://github.com/user-attachments/assets/6eba42a0-dbc4-456b-bdd7-be99666b905a)](https://github.com/yasir723/veri-yapilari) **Veri Yapıları** |
 | [![](https://github.com/user-attachments/assets/9cd8f821-3c3a-4443-b347-543f3e7d291c)](https://github.com/yasir723/alrawi-micro) **Alrawi Micro** |  |
+
+
+
+## 1. Sınıf
+|                    |                    |
+|:-------------------------:|:-------------------------:|
+| [![](https://github.com/user-attachments/assets/991021b5-8234-4028-bbd7-4192df707f15)](https://github.com/yasir723/hesap-makinesi) **Hesap Makinesi** | [![](https://github.com/user-attachments/assets/cd09d08d-4892-4d7a-b564-45a2f4b6db51)](https://github.com/yasir723/3x3-matrisler) **3x3 Matrisler** |
+
 
   
 
