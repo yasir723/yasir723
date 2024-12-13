@@ -81,7 +81,7 @@ When I'm not coding, I enjoy researching cutting-edge technologies and creating 
 ## 1. Sınıf
 |                    |                    |
 |:-------------------------:|:-------------------------:|
-| [![](https://github.com/user-attachments/assets/991021b5-8234-4028-bbd7-4192df707f15)](https://github.com/yasir723/hesap-makinesi) **Hesap Makinesi** | [![](https://github.com/user-attachments/assets/cd09d08d-4892-4d7a-b564-45a2f4b6db51)](https://github.com/yasir723/3x3-matrisler) **3x3 Matrisler** |
+| [![](https://github.com/user-attachments/assets/991021b5-8234-4028-bbd7-4192df707f15)](https://github.com/yasir723/hesap-makinesi) **Hesap Makinesi** | [![](https://github.com/user-attachments/assets/ce997e91-befd-4564-b2b6-e53c360f4fd5)](https://github.com/yasir723/3x3-matrisler) **3x3 Matrisler** |
 
 
   
