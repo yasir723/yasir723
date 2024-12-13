@@ -70,31 +70,12 @@ When I'm not coding, I enjoy researching cutting-edge technologies and creating 
 ---
 # 💻 My Projects
 
-<div align='center'>
-  <a href="https://github.com/yasir723/java-programlama" style="text-decoration: none; color: black;">
-    <img src="https://github.com/user-attachments/assets/dca10ea5-31b1-4a0a-949f-edc9d1a602e0" alt="Java Programlama" style="width: 50%; margin-bottom: 10px;" />
-    <p>Java Programlama</p>
-  </a>
+|                    |                    |
+|:-------------------------:|:-------------------------:|
+| [![](https://github.com/user-attachments/assets/dca10ea5-31b1-4a0a-949f-edc9d1a602e0)](https://github.com/yasir723/java-programlama) **Java Programlama** | [![](https://github.com/user-attachments/assets/83d0256f-a8b5-47bb-958d-a52a1e5f8bce)](https://github.com/yasir723/web-guvenligi) **Web Güvenliği** |
+| [![](https://github.com/user-attachments/assets/991021b5-8234-4028-bbd7-4192df707f15)](https://github.com/yasir723/hesap-makinesi) **Hesap Makinesi** | [![](https://github.com/user-attachments/assets/2ca72a6a-61e1-4992-ae85-fa2f6fd7ff47)](https://github.com/yasir723/Karga-Notify) **Karga Notify** |
+| [![](https://github.com/user-attachments/assets/6eba42a0-dbc4-456b-bdd7-be99666b905a)](https://github.com/yasir723/veri-yapilari) **Veri Yapıları** | [![]()]() **** |
 
-  <a href="https://github.com/yasir723/web-guvenligi" style="text-decoration: none; color: black;">
-    <img src="https://github.com/user-attachments/assets/83d0256f-a8b5-47bb-958d-a52a1e5f8bce" alt="Web Güvenliği" style="width: 50%; margin-bottom: 10px;" />
-    <p>Web Güvenliği</p>
-  </a>
- <a href="https://github.com/yasir723/veri-yapilari" style="text-decoration: none; color: black;">
-    <img src="https://github.com/user-attachments/assets/6eba42a0-dbc4-456b-bdd7-be99666b905a" alt="Veri Yapıları" style="width: 50%; margin-bottom: 10px;" />
-    <p>Veri Yapıları</p>
-  </a>
- <a href="https://github.com/yasir723/Karga-Notify" style="text-decoration: none; color: black;">
-    <img src="https://github.com/user-attachments/assets/2ca72a6a-61e1-4992-ae85-fa2f6fd7ff47" alt="Karga Notify" style="width: 50%; margin-bottom: 10px;" />
-    <p>Karga Notify</p>
-  </a>
-
- <a href="https://github.com/yasir723/hesap-makinesi" style="text-decoration: none; color: black;">
-    <img src="https://github.com/user-attachments/assets/991021b5-8234-4028-bbd7-4192df707f15" alt="Hesap Makinesi" style="width: 50%; margin-bottom: 10px;" />
-    <p>Hesap Makinesi</p>
-  </a>
-  
-</div>
 
   
 
